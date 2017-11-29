@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sprint_9", "sprint_9\sprint_9.vcxproj", "{6968E2C4-9EB0-46C9-8498-1371897CA5B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6968E2C4-9EB0-46C9-8498-1371897CA5B0}.Debug|x86.ActiveCfg = Debug|Win32
+		{6968E2C4-9EB0-46C9-8498-1371897CA5B0}.Debug|x86.Build.0 = Debug|Win32
+		{6968E2C4-9EB0-46C9-8498-1371897CA5B0}.Release|x86.ActiveCfg = Release|Win32
+		{6968E2C4-9EB0-46C9-8498-1371897CA5B0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CD51937-C27A-4D86-9A52-490935F3CBFD}
+	EndGlobalSection
+EndGlobal
